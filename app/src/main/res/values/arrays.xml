@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="renk_label">
+        <item>@string/label_red</item>
+        <item>@string/label_green</item>
+        <item>@string/label_blue</item>
+
+    </array>
+
+    <array name="renk_value">
+        <item>@string/value_red</item>
+        <item>@string/value_green</item>
+        <item>@string/value_blue</item>
+
+    </array>
+
+</resources>

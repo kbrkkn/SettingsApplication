@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Settings Application</string>
+
+    <!--EdittextPreference için-->
+    <string name="defaultValue_text" translatable="false">turkishcodergirls.com</string>
+    <string name="key_text" translatable="false">text</string>
+    <string name="label_text" translatable="false">Mesajınız</string>
+
+    <!--ListPreference için-->
+
+    <string name="key_list" translatable="false">renk</string>
+    <string name="label_list">Yazı Rengi</string>
+
+    <string name="value_red" translatable="false">red</string>
+    <string name="value_green" translatable="false">green</string>
+    <string name="value_blue" translatable="false">blue</string>
+
+    <string name="label_red">Kırmızı</string>
+    <string name="label_green" >Yeşil</string>
+    <string name="label_blue" >Mavi</string>
+
+    <!--CheckboxPreference için-->
+    <string name="label_allcaps">Hepsi Büyük Harf</string>
+    <string name="key_allcaps" translatable="false">allcaps</string>
+
+    <!-- Summary for Checkboxes -->
+    <string name="pref_show_true">Hepsi Büyük Harf</string>
+    <string name="pref_show_false">Hepsi Küçük Harf</string>
+
+
+</resources>
